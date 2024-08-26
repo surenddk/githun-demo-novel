@@ -1,3 +1,5 @@
 Chapter 1
 -we meet Nick,Tom,Daisy and Jordan 
 made some changes in this file
+added some message blah blah blah
+added some message blah blah blah
